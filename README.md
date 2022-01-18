@@ -21,3 +21,5 @@ info
 **[owl4ce](https://github.com/owl4ce)** for some scripts and rofi themes
 
 **[adi1090x](https://github.com/adi1090x)** for the rofi theme and screenshot script
+
+**[sdushantha](https://github.com/sdushantha/farge/blob/master/farge)** for the color-picker(farge)
