@@ -261,17 +261,6 @@ content = "  "
 content-background = ${colors.background-alt}
 
 
-[module/right]
-type = custom/text
-content = %{T6} %{T-}
-content-background = ${colors.background}
-content-foreground = ${colors.background-alt}
-
-[module/left]
-type = custom/text
-content = %{T6} %{T-}
-content-background = ${colors.background}
-content-foreground = ${colors.background-alt}
 
 [module/layout]
 type = custom/script
@@ -350,8 +339,6 @@ format-offline = %{A1:mpd:}  <label-offline> %{A-}%{T4}%{B#00000000}%{F#1e1e2
 format-offline-background = ${colors.background-alt}
 format-offline-foreground = ${colors.accent}
 label-offline = offline
-; Seconds to sleep between progressbar/song timer sync
-; Default: 1
 interval = 1
 
 
@@ -361,7 +348,7 @@ icon-pause = 
 icon-stop = ⏹
 icon-prev = 玲
 icon-next = 怜 %{T4}%{B#00000000}%{F#94caf7}%{T-, B-, F-}
-icon-repeat = 
+
 
 [module/arch]
 type = custom/text
