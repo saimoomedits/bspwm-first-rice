@@ -13,7 +13,7 @@ info
 * APPLICATION-LAUNCHER : [Rofi](https://github.com/davatorium/rofi)
 * BAR: [Polybar](https://github.com/polybar/polybar)
 * TERMINAL : Urxvt
-* PRF-VIEWER : [Zathura](https://github.com/pwmt/zathura)
+* PDF-VIEWER : [Zathura](https://github.com/pwmt/zathura)
 * NOTIFICATIONS : [Dunst](https://dunst-project.org/)
 * FONTS : Feather(for icons), [DaddyTimeMono Nerd Font](https://github.com/ryanoasis/nerd-fonts/releases/download/v2.1.0/DaddyTimeMono.zip)
 
